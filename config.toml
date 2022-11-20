@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = ""
 title   = "Welcome, I am Benjamin Shapiro"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -196,3 +196,5 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+
+
