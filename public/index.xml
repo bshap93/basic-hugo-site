@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome, I am Benjamin Shapiro</title>
+    <link>/</link>
+    <description>Recent content on Welcome, I am Benjamin Shapiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 19 Nov 2022 12:06:24 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 19 Nov 2022 12:06:24 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>With a focus on clean code, maintainability, testability, and overall code quality, I will focus in on what is most important both long and short-term. I also work as a teacher at a Residential Treatment Center for teenagers dealing with mental health issues. I&amp;rsquo;m a big advocate of neurodiversity in the workplace.
+I have worked on a variety of projects that emphasize the variety of experience I am able to leverage.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/2022/11/my-first-post/</link>
+      <pubDate>Sat, 19 Nov 2022 12:06:24 -0700</pubDate>
+      
+      <guid>/posts/2022/11/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sat, 19 Nov 2022 12:06:24 -0700</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Blink Editor - Blink analyzes your project to proactively display code relevant to what you&amp;rsquo;re working on.
+All of this in addition to the standard features of a text editor or IDE, supercharged with some Blink goodies. Pinbird - A Flutter client for the social bookmarking service Pinboard. Pinbird Flutter
+Interconnected with the Pinboard API, while useable locally. Works for Mobile and for desktop. It&amp;rsquo;s mobile first but the desktop first version is coming.</description>
+    </item>
+    
+  </channel>
+</rss>
